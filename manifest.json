@@ -1,5 +1,1769 @@
 {
   "_schema_version": "1.0",
-  "assets": [],
+  "assets": [
+    {
+      "id": "ports-ais-tracking-dashboard",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "customer:mpa-singapore"
+      ],
+      "description": "AIS maritime operations dashboard.",
+      "level": 2,
+      "source": "FlytPorts deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 361,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard.jpg"
+    },
+    {
+      "id": "ports-operations-asset-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-02.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:vessel-ship"
+      ],
+      "description": "Vessel deck view from ship.",
+      "level": 2,
+      "source": "FlytPorts deck slide 2",
+      "confidence": "high",
+      "width": 515,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-02.jpg"
+    },
+    {
+      "id": "ports-operations-asset-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-03.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:dji-dock-2",
+        "subject:dock-closed"
+      ],
+      "description": "DJI dock product render.",
+      "level": 2,
+      "source": "FlytPorts deck slide 1",
+      "confidence": "high",
+      "width": 764,
+      "height": 780,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-03.jpg"
+    },
+    {
+      "id": "evidence-package-report-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/evidence-package-report-02.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:vessel-ship",
+        "output:evidence-package",
+        "screen:evidence-package",
+        "agent:evidence-package",
+        "partner:aerodyne"
+      ],
+      "description": "Aerial vessels on blue water.",
+      "level": 2,
+      "source": "FlytPorts deck slide 7",
+      "confidence": "high",
+      "width": 900,
+      "height": 519,
+      "added": "2026-07-14",
+      "_local_file": "evidence-package-report-02.jpg"
+    },
+    {
+      "id": "ports-operations-asset-07",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-07.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:container-yard"
+      ],
+      "description": "Open container detection overlay.",
+      "level": 2,
+      "source": "FlytPorts deck slide 9",
+      "confidence": "high",
+      "width": 900,
+      "height": 350,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-07.jpg"
+    },
+    {
+      "id": "ports-operations-asset-08",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-08.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:port-crane"
+      ],
+      "description": "Rust defect detection on crane.",
+      "level": 2,
+      "source": "FlytPorts deck slide 9",
+      "confidence": "high",
+      "width": 900,
+      "height": 350,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-08.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-03",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-03.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "customer:mpa-singapore"
+      ],
+      "description": "AIS tracking dashboard map.",
+      "level": 2,
+      "source": "FlytPorts deck slide 4",
+      "confidence": "high",
+      "width": 900,
+      "height": 420,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-03.jpg"
+    },
+    {
+      "id": "ports-operations-asset-09",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-09.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Maritime command center split screen.",
+      "level": 2,
+      "source": "FlytPorts deck slide 10",
+      "confidence": "high",
+      "width": 900,
+      "height": 469,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-09.jpg"
+    },
+    {
+      "id": "ports-operations-asset-10",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-10.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:port",
+        "subject:berth",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Sensor-to-report workflow diagram.",
+      "level": 2,
+      "source": "FlytPorts deck slide 10",
+      "confidence": "high",
+      "width": 900,
+      "height": 297,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-10.jpg"
+    },
+    {
+      "id": "evidence-package-report-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/evidence-package-report-03.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:container-yard",
+        "output:evidence-package",
+        "screen:evidence-package",
+        "agent:evidence-package",
+        "partner:aerodyne"
+      ],
+      "description": "Container yard drone view.",
+      "level": 2,
+      "source": "FlytPorts deck slide 7",
+      "confidence": "high",
+      "width": 900,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "evidence-package-report-03.jpg"
+    },
+    {
+      "id": "ports-operations-asset-11",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-11.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:vessel-ship"
+      ],
+      "description": "Ship bow and red buoy.",
+      "level": 2,
+      "source": "FlytPorts deck slide 9",
+      "confidence": "high",
+      "width": 721,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-11.jpg"
+    },
+    {
+      "id": "ports-operations-asset-12",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-12.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Operations dashboard on wall monitors.",
+      "level": 2,
+      "source": "FlytPorts deck slide 13",
+      "confidence": "high",
+      "width": 646,
+      "height": 834,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-12.jpg"
+    },
+    {
+      "id": "thermal-anomaly-detection",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/thermal-anomaly-detection.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:verkos",
+        "agent:object-detection",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Thermal night shoreline detection.",
+      "level": 2,
+      "source": "FlytPorts deck slide 13",
+      "confidence": "high",
+      "width": 646,
+      "height": 834,
+      "added": "2026-07-14",
+      "_local_file": "thermal-anomaly-detection.jpg"
+    },
+    {
+      "id": "ports-operations-asset-13",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-13.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:container-yard",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Container yard aerial view.",
+      "level": 2,
+      "source": "FlytPorts deck slide 13",
+      "confidence": "high",
+      "width": 646,
+      "height": 834,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-13.jpg"
+    },
+    {
+      "id": "intrusion-person-detection",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/intrusion-person-detection.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "agent:intrusion-classification",
+        "subject:person-detected",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Unauthorized person detection overlay.",
+      "level": 2,
+      "source": "FlytPorts deck slide 13",
+      "confidence": "high",
+      "width": 646,
+      "height": 834,
+      "added": "2026-07-14",
+      "_local_file": "intrusion-person-detection.jpg"
+    },
+    {
+      "id": "ports-operations-asset-15",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-15.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:dji-dock-2",
+        "subject:dock-closed"
+      ],
+      "description": "DJI dock product render.",
+      "level": 2,
+      "source": "FlytPorts deck slide 14",
+      "confidence": "high",
+      "width": 900,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-15.jpg"
+    },
+    {
+      "id": "ports-operations-asset-16",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-16.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:port",
+        "subject:berth",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Sunlit container port aerial.",
+      "level": 2,
+      "source": "FlytPorts deck slide 13",
+      "confidence": "high",
+      "width": 646,
+      "height": 834,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-16.jpg"
+    },
+    {
+      "id": "ports-operations-asset-17",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-17.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase"
+      ],
+      "description": "ISO SOC GDPR compliance badges.",
+      "level": 3,
+      "source": "FlytPorts deck slide 16",
+      "confidence": "high",
+      "width": 847,
+      "height": 356,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-17.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-04",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-04.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "customer:mpa-singapore"
+      ],
+      "description": "Ship bow and red buoy.",
+      "level": 2,
+      "source": "FlytPorts deck slide 12",
+      "confidence": "high",
+      "width": 600,
+      "height": 872,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-04.jpg"
+    },
+    {
+      "id": "ports-operations-asset-19",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-19.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:port",
+        "subject:berth"
+      ],
+      "description": "Port command center video wall.",
+      "level": 2,
+      "source": "FlytPorts deck slide 1",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-19.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-05",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-05.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "subject:port",
+        "subject:berth",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "customer:mpa-singapore"
+      ],
+      "description": "Thermal scan over port infrastructure.",
+      "level": 2,
+      "source": "FlytPorts deck slide 12",
+      "confidence": "high",
+      "width": 600,
+      "height": 872,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-05.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-06",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-06.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Thermal scan detected display.",
+      "level": 2,
+      "source": "FlytPorts deck slide 4",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-06.jpg"
+    },
+    {
+      "id": "counter-drone-console",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/counter-drone-console.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:counter-drone-console",
+        "agent:object-detection",
+        "output:evidence-package",
+        "screen:evidence-package",
+        "agent:evidence-package"
+      ],
+      "description": "Counter-drone map console.",
+      "level": 2,
+      "source": "FlytPorts deck slide 8",
+      "confidence": "high",
+      "width": 900,
+      "height": 421,
+      "added": "2026-07-14",
+      "_local_file": "counter-drone-console.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-07",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-07.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "customer:mpa-singapore"
+      ],
+      "description": "Crew on cargo vessel deck.",
+      "level": 2,
+      "source": "FlytPorts deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 700,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-07.jpg"
+    },
+    {
+      "id": "ports-operations-asset-20",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-20.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:vessel-ship",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Patrol boats beside ship.",
+      "level": 2,
+      "source": "FlytPorts deck slide 6",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-20.jpg"
+    },
+    {
+      "id": "ports-operations-asset-21",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-21.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:port",
+        "subject:berth",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Bintulu port perimeter gate.",
+      "level": 2,
+      "source": "FlytPorts deck slide 6",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-21.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-08",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-08.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "subject:port",
+        "subject:berth",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "customer:mpa-singapore"
+      ],
+      "description": "Tugboat and container ship berth.",
+      "level": 2,
+      "source": "FlytPorts deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 700,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-08.jpg"
+    },
+    {
+      "id": "intrusion-person-detection-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/intrusion-person-detection-02.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:container-yard",
+        "agent:intrusion-classification",
+        "subject:person-detected",
+        "output:evidence-package",
+        "screen:evidence-package",
+        "agent:evidence-package",
+        "partner:aerodyne"
+      ],
+      "description": "Person detected in container yard.",
+      "level": 2,
+      "source": "FlytPorts deck slide 7",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "intrusion-person-detection-02.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-09",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-09.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship",
+        "subject:port",
+        "subject:berth",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "customer:mpa-singapore"
+      ],
+      "description": "Container port aerial photo.",
+      "level": 2,
+      "source": "FlytPorts deck slide 4",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-09.jpg"
+    },
+    {
+      "id": "ports-operations-asset-23",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-23.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase"
+      ],
+      "description": "FlytBase platform architecture diagram.",
+      "level": 2,
+      "source": "FlytPorts deck slide 15",
+      "confidence": "high",
+      "width": 900,
+      "height": 371,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-23.jpg"
+    },
+    {
+      "id": "ports-operations-asset-24",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-24.jpg",
+      "tags": [
+        "vertical:maritime-ports",
+        "product:flytbase",
+        "subject:dji-dock-2",
+        "subject:dock-closed"
+      ],
+      "description": "Drone dock hardware lineup.",
+      "level": 2,
+      "source": "FlytPorts deck slide 17",
+      "confidence": "high",
+      "width": 900,
+      "height": 423,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-24.jpg"
+    },
+    {
+      "id": "video-wall-command-center",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:video-wall",
+        "screen:video-wall"
+      ],
+      "description": "Operations video wall in room.",
+      "level": 2,
+      "source": "Intro deck slide 1",
+      "confidence": "high",
+      "width": 900,
+      "height": 600,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Conference keynote speaker slide.",
+      "level": 2,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 686,
+      "height": 386,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-02.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Conference panel on stage.",
+      "level": 2,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 675,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-02.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-03",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-03.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Discovery Land Company logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 831,
+      "height": 295,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-03.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-04",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-04.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Conference audience presentation room.",
+      "level": 2,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 506,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-04.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-05",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-05.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Conference speaker at podium.",
+      "level": 2,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 598,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-05.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-06",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-06.jpg",
+      "tags": [
+        "product:flytbase",
+        "customer:statnett"
+      ],
+      "description": "Statnett logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 831,
+      "height": 295,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-06.jpg"
+    },
+    {
+      "id": "security-response-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/security-response-asset.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:security-services",
+        "vertical:railroad",
+        "customer:lugn-security",
+        "customer:prorail",
+        "screen:command-center-view",
+        "subject:security-operations-center",
+        "subject:operator-at-console"
+      ],
+      "description": "LUGN security operations center.",
+      "level": 2,
+      "source": "Intro deck slide 3",
+      "confidence": "high",
+      "width": 800,
+      "height": 533,
+      "added": "2026-07-14",
+      "_local_file": "security-response-asset.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-08",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-08.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Growth curve chart.",
+      "level": 2,
+      "source": "Intro deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 550,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-08.jpg"
+    },
+    {
+      "id": "solar-inspection-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/solar-inspection-asset.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:solar",
+        "subject:solar-farm"
+      ],
+      "description": "Solar farm aerial photo.",
+      "level": 2,
+      "source": "Intro deck slide 5",
+      "confidence": "high",
+      "width": 900,
+      "height": 504,
+      "added": "2026-07-14",
+      "_local_file": "solar-inspection-asset.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-09",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-09.jpg",
+      "tags": [
+        "product:flytbase",
+        "customer:csx",
+        "vertical:railroad"
+      ],
+      "description": "CSX logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 831,
+      "height": 295,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-09.jpg"
+    },
+    {
+      "id": "public-safety-response-asset-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/public-safety-response-asset-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:public-safety",
+        "screen:command-center-view",
+        "subject:control-room",
+        "subject:operator-at-console"
+      ],
+      "description": "Police officer at command console.",
+      "level": 2,
+      "source": "Intro deck slide 5",
+      "confidence": "high",
+      "width": 900,
+      "height": 506,
+      "added": "2026-07-14",
+      "_local_file": "public-safety-response-asset-02.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-10",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-10.jpg",
+      "tags": [
+        "product:flytbase",
+        "subject:ground-robot"
+      ],
+      "description": "Robotic hardware lineup graphic.",
+      "level": 2,
+      "source": "Intro deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 502,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-10.jpg"
+    },
+    {
+      "id": "public-safety-response-asset-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/public-safety-response-asset-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:public-safety",
+        "screen:command-center-view",
+        "subject:control-room",
+        "subject:operator-at-console"
+      ],
+      "description": "Public safety command center.",
+      "level": 2,
+      "source": "Intro deck slide 5",
+      "confidence": "high",
+      "width": 900,
+      "height": 548,
+      "added": "2026-07-14",
+      "_local_file": "public-safety-response-asset-03.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-11",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-11.jpg",
+      "tags": [
+        "product:flytbase",
+        "customer:anglo-american",
+        "vertical:mining"
+      ],
+      "description": "Anglo American logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 290,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-11.jpg"
+    },
+    {
+      "id": "public-safety-response-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/public-safety-response-asset.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:public-safety",
+        "customer:bf-kiel"
+      ],
+      "description": "Fire rescue vehicles by water.",
+      "level": 2,
+      "source": "Intro deck slide 9",
+      "confidence": "high",
+      "width": 900,
+      "height": 507,
+      "added": "2026-07-14",
+      "_local_file": "public-safety-response-asset.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-12",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-12.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Terabase logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 126,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-12.jpg"
+    },
+    {
+      "id": "utilities-inspection-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/utilities-inspection-asset.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:utilities",
+        "customer:statnett",
+        "subject:control-room",
+        "subject:operator-at-console"
+      ],
+      "description": "Statnett remote command center monitors.",
+      "level": 2,
+      "source": "Intro deck slide 14",
+      "confidence": "high",
+      "width": 720,
+      "height": 539,
+      "added": "2026-07-14",
+      "_local_file": "utilities-inspection-asset.jpg"
+    },
+    {
+      "id": "thermal-anomaly-detection-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/thermal-anomaly-detection-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:public-safety",
+        "vertical:maritime-ports",
+        "product:forensic-search",
+        "screen:forensic-search",
+        "output:forensic-search-result",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "agent:object-detection",
+        "subject:dji-dock-2",
+        "subject:dji-drone"
+      ],
+      "description": "Drone dock on rooftop.",
+      "level": 2,
+      "source": "Intro deck slide 6",
+      "confidence": "high",
+      "width": 900,
+      "height": 506,
+      "added": "2026-07-14",
+      "_local_file": "thermal-anomaly-detection-02.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-10",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-10.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "customer:mpa-singapore",
+        "screen:ais-tracking",
+        "product:airspace-zones",
+        "subject:vessel-ship"
+      ],
+      "description": "AIS maritime tracking dashboard.",
+      "level": 2,
+      "source": "Intro deck slide 10",
+      "confidence": "high",
+      "width": 900,
+      "height": 476,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-10.jpg"
+    },
+    {
+      "id": "ports-ais-tracking-dashboard-11",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-ais-tracking-dashboard-11.jpg",
+      "tags": [
+        "product:verkos",
+        "vertical:maritime-ports",
+        "customer:mpa-singapore",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "subject:port"
+      ],
+      "description": "Thermal port detection composite.",
+      "level": 2,
+      "source": "Intro deck slide 10",
+      "confidence": "high",
+      "width": 900,
+      "height": 675,
+      "added": "2026-07-14",
+      "_local_file": "ports-ais-tracking-dashboard-11.jpg"
+    },
+    {
+      "id": "workflow-builder",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/workflow-builder.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:solar",
+        "subject:solar-farm",
+        "product:flows",
+        "screen:flows",
+        "product:integrations-workflows",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Solar mission planner dashboard.",
+      "level": 2,
+      "source": "Intro deck slide 11",
+      "confidence": "high",
+      "width": 900,
+      "height": 510,
+      "added": "2026-07-14",
+      "_local_file": "workflow-builder.jpg"
+    },
+    {
+      "id": "intrusion-person-detection-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/intrusion-person-detection-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:security-services",
+        "vertical:industrial-manufacturing",
+        "agent:intrusion-classification",
+        "subject:person-detected"
+      ],
+      "description": "Person detected near fence.",
+      "level": 2,
+      "source": "Intro deck slide 12",
+      "confidence": "high",
+      "width": 800,
+      "height": 599,
+      "added": "2026-07-14",
+      "_local_file": "intrusion-person-detection-03.jpg"
+    },
+    {
+      "id": "thermal-anomaly-detection-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/thermal-anomaly-detection-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "vertical:solar",
+        "subject:solar-farm",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:thermal-anomaly",
+        "output:thermal-report"
+      ],
+      "description": "Solar farm at sunset.",
+      "level": 2,
+      "source": "Intro deck slide 15",
+      "confidence": "high",
+      "width": 788,
+      "height": 450,
+      "added": "2026-07-14",
+      "_local_file": "thermal-anomaly-detection-03.jpg"
+    },
+    {
+      "id": "ports-operations-asset-25",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-25.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "customer:tfnsw",
+        "vertical:highways"
+      ],
+      "description": "Transport for NSW logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 457,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-25.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-14",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-14.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Vertical solutions architecture diagram.",
+      "level": 2,
+      "source": "Intro deck slide 18",
+      "confidence": "high",
+      "width": 900,
+      "height": 461,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-14.jpg"
+    },
+    {
+      "id": "security-response-asset-02",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/security-response-asset-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:security-services",
+        "vertical:industrial-manufacturing",
+        "customer:titan-protection"
+      ],
+      "description": "Titan Protection logo.",
+      "level": 3,
+      "source": "Intro deck slide 2",
+      "confidence": "high",
+      "width": 900,
+      "height": 349,
+      "added": "2026-07-14",
+      "_local_file": "security-response-asset-02.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-15",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-15.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Hextronics logo.",
+      "level": 3,
+      "source": "Intro deck slide 19",
+      "confidence": "high",
+      "width": 900,
+      "height": 347,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-15.jpg"
+    },
+    {
+      "id": "security-response-asset-03",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/security-response-asset-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:security-services",
+        "vertical:industrial-manufacturing",
+        "subject:ground-robot"
+      ],
+      "description": "Security patrol robot at gate.",
+      "level": 2,
+      "source": "Intro deck slide 12",
+      "confidence": "high",
+      "width": 900,
+      "height": 675,
+      "added": "2026-07-14",
+      "_local_file": "security-response-asset-03.jpg"
+    },
+    {
+      "id": "flinks-integrations",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:oil-gas",
+        "vertical:oil-gas-downstream",
+        "subject:refinery",
+        "subject:tank-farm",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations",
+        "agent:object-detection"
+      ],
+      "description": "Oil refinery tank farm aerial.",
+      "level": 2,
+      "source": "Intro deck slide 13",
+      "confidence": "high",
+      "width": 900,
+      "height": 480,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-18",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-18.jpg",
+      "tags": [
+        "product:flytbase",
+        "subject:ground-robot"
+      ],
+      "description": "Robotic hardware lineup graphic.",
+      "level": 2,
+      "source": "Intro deck slide 19",
+      "confidence": "high",
+      "width": 900,
+      "height": 475,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-18.jpg"
+    },
+    {
+      "id": "fleet-ops-dashboard",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/fleet-ops-dashboard.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:verkos"
+      ],
+      "description": "Physical AI app catalog.",
+      "level": 2,
+      "source": "Intro deck slide 32",
+      "confidence": "high",
+      "width": 900,
+      "height": 508,
+      "added": "2026-07-14",
+      "_local_file": "fleet-ops-dashboard.jpg"
+    },
+    {
+      "id": "flinks-integrations-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:oil-gas",
+        "vertical:oil-gas-downstream",
+        "subject:refinery",
+        "subject:tank-farm",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations",
+        "agent:object-detection"
+      ],
+      "description": "Oil tank inspection aerial.",
+      "level": 2,
+      "source": "Intro deck slide 13",
+      "confidence": "high",
+      "width": 900,
+      "height": 675,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-02.jpg"
+    },
+    {
+      "id": "video-wall-command-center-02",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:video-wall",
+        "screen:video-wall",
+        "agent:object-detection"
+      ],
+      "description": "Live operations dashboard collage.",
+      "level": 2,
+      "source": "Intro deck slide 20",
+      "confidence": "high",
+      "width": 900,
+      "height": 504,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center-02.jpg"
+    },
+    {
+      "id": "ports-operations-asset-26",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-26.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:object-detection"
+      ],
+      "description": "Media library asset grid.",
+      "level": 2,
+      "source": "Intro deck slide 21",
+      "confidence": "high",
+      "width": 900,
+      "height": 466,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-26.jpg"
+    },
+    {
+      "id": "utilities-inspection-asset-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/utilities-inspection-asset-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:utilities",
+        "customer:statnett",
+        "subject:dji-dock-2",
+        "subject:dji-drone"
+      ],
+      "description": "Snowy substation drone dock.",
+      "level": 2,
+      "source": "Intro deck slide 14",
+      "confidence": "high",
+      "width": 642,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "utilities-inspection-asset-02.jpg"
+    },
+    {
+      "id": "flinks-integrations-03",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations",
+        "product:flows",
+        "screen:flows"
+      ],
+      "description": "Workflow builder interface.",
+      "level": 2,
+      "source": "Intro deck slide 24",
+      "confidence": "high",
+      "width": 900,
+      "height": 468,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-03.jpg"
+    },
+    {
+      "id": "ports-operations-asset-27",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/ports-operations-asset-27.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:object-detection"
+      ],
+      "description": "Asset inspection media comparison.",
+      "level": 2,
+      "source": "Intro deck slide 21",
+      "confidence": "high",
+      "width": 900,
+      "height": 448,
+      "added": "2026-07-14",
+      "_local_file": "ports-operations-asset-27.jpg"
+    },
+    {
+      "id": "flinks-integrations-04",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-04.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations",
+        "product:flows",
+        "screen:flows"
+      ],
+      "description": "Mission planner map dashboard.",
+      "level": 2,
+      "source": "Intro deck slide 24",
+      "confidence": "high",
+      "width": 900,
+      "height": 475,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-04.jpg"
+    },
+    {
+      "id": "flinks-integrations-05",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-05.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations"
+      ],
+      "description": "Flex apps marketplace cards.",
+      "level": 2,
+      "source": "Intro deck slide 22",
+      "confidence": "high",
+      "width": 900,
+      "height": 299,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-05.jpg"
+    },
+    {
+      "id": "video-wall-command-center-03",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center-03.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:video-wall",
+        "screen:video-wall"
+      ],
+      "description": "Fleet command map dashboard.",
+      "level": 2,
+      "source": "Intro deck slide 29",
+      "confidence": "high",
+      "width": 900,
+      "height": 469,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center-03.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-19",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-19.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:verkos"
+      ],
+      "description": "Verkos architecture interface.",
+      "level": 2,
+      "source": "Intro deck slide 28",
+      "confidence": "high",
+      "width": 900,
+      "height": 608,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-19.jpg"
+    },
+    {
+      "id": "flinks-integrations-06",
+      "type": "LOGO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-06.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations"
+      ],
+      "description": "Flinks integration logo wall.",
+      "level": 3,
+      "source": "Intro deck slide 22",
+      "confidence": "high",
+      "width": 861,
+      "height": 533,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-06.jpg"
+    },
+    {
+      "id": "video-wall-command-center-04",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center-04.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:video-wall",
+        "screen:video-wall"
+      ],
+      "description": "Multi-camera live video wall.",
+      "level": 2,
+      "source": "Intro deck slide 29",
+      "confidence": "high",
+      "width": 900,
+      "height": 469,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center-04.jpg"
+    },
+    {
+      "id": "intrusion-person-detection-04",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/intrusion-person-detection-04.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:verkos",
+        "product:forensic-search",
+        "screen:forensic-search",
+        "output:forensic-search-result",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:object-detection",
+        "agent:intrusion-classification",
+        "subject:person-detected"
+      ],
+      "description": "Unauthorized person spotted alert.",
+      "level": 2,
+      "source": "Intro deck slide 26",
+      "confidence": "high",
+      "width": 900,
+      "height": 714,
+      "added": "2026-07-14",
+      "_local_file": "intrusion-person-detection-04.jpg"
+    },
+    {
+      "id": "thermal-anomaly-detection-04",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/thermal-anomaly-detection-04.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:forensic-search",
+        "screen:forensic-search",
+        "output:forensic-search-result",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:change-detection",
+        "output:change-detection-report",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "agent:object-detection",
+        "product:photogrammetry",
+        "output:3d-model"
+      ],
+      "description": "Action workflow diagram with report.",
+      "level": 2,
+      "source": "Intro deck slide 37",
+      "confidence": "high",
+      "width": 900,
+      "height": 266,
+      "added": "2026-07-14",
+      "_local_file": "thermal-anomaly-detection-04.jpg"
+    },
+    {
+      "id": "flinks-integrations-07",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flinks-integrations-07.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:flinks",
+        "product:integrations-workflows",
+        "screen:integrations"
+      ],
+      "description": "Flinks add-on cards.",
+      "level": 2,
+      "source": "Intro deck slide 22",
+      "confidence": "high",
+      "width": 900,
+      "height": 307,
+      "added": "2026-07-14",
+      "_local_file": "flinks-integrations-07.jpg"
+    },
+    {
+      "id": "solar-inspection-asset-06",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/solar-inspection-asset-06.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:solar",
+        "subject:solar-farm",
+        "product:verkos",
+        "agent:change-detection",
+        "output:change-detection-report",
+        "agent:object-detection",
+        "product:photogrammetry",
+        "output:3d-model"
+      ],
+      "description": "Industrial site digital twin collage.",
+      "level": 2,
+      "source": "Intro deck slide 34",
+      "confidence": "high",
+      "width": 900,
+      "height": 503,
+      "added": "2026-07-14",
+      "_local_file": "solar-inspection-asset-06.jpg"
+    },
+    {
+      "id": "video-wall-command-center-05",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center-05.jpg",
+      "tags": [
+        "product:flytbase",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:video-wall",
+        "screen:video-wall"
+      ],
+      "description": "Fleet control airspace dashboard.",
+      "level": 2,
+      "source": "Intro deck slide 29",
+      "confidence": "high",
+      "width": 900,
+      "height": 469,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center-05.jpg"
+    },
+    {
+      "id": "thermal-anomaly-detection-05",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/thermal-anomaly-detection-05.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:verkos",
+        "product:forensic-search",
+        "screen:forensic-search",
+        "output:forensic-search-result",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:change-detection",
+        "output:change-detection-report",
+        "agent:thermal-anomaly",
+        "output:thermal-report",
+        "agent:object-detection",
+        "product:photogrammetry",
+        "output:3d-model"
+      ],
+      "description": "Port digital twin action graphic.",
+      "level": 2,
+      "source": "Intro deck slide 37",
+      "confidence": "high",
+      "width": 900,
+      "height": 503,
+      "added": "2026-07-14",
+      "_local_file": "thermal-anomaly-detection-05.jpg"
+    },
+    {
+      "id": "oil-gas-inspection-asset",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/oil-gas-inspection-asset.jpg",
+      "tags": [
+        "product:verkos",
+        "vertical:oil-gas",
+        "vertical:oil-gas-upstream",
+        "subject:wellpad",
+        "agent:change-detection",
+        "output:inspection-report"
+      ],
+      "description": "Wellhead oil stain aerial.",
+      "level": 2,
+      "source": "Intro deck slide 36",
+      "confidence": "high",
+      "width": 900,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "oil-gas-inspection-asset.jpg"
+    },
+    {
+      "id": "video-wall-command-center-06",
+      "type": "SCREENSHOT",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/video-wall-command-center-06.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:video-wall",
+        "screen:video-wall",
+        "product:verkos",
+        "product:analytics-reporting",
+        "screen:report-viewer"
+      ],
+      "description": "Security operations video wall.",
+      "level": 2,
+      "source": "Intro deck slide 35",
+      "confidence": "high",
+      "width": 900,
+      "height": 503,
+      "added": "2026-07-14",
+      "_local_file": "video-wall-command-center-06.jpg"
+    },
+    {
+      "id": "oil-gas-inspection-asset-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/oil-gas-inspection-asset-02.jpg",
+      "tags": [
+        "product:verkos",
+        "vertical:oil-gas",
+        "vertical:oil-gas-upstream",
+        "subject:wellpad",
+        "agent:change-detection",
+        "output:inspection-report"
+      ],
+      "description": "Wellhead oil stain aerial.",
+      "level": 2,
+      "source": "Intro deck slide 36",
+      "confidence": "high",
+      "width": 900,
+      "height": 900,
+      "added": "2026-07-14",
+      "_local_file": "oil-gas-inspection-asset-02.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-21",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-21.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Multi-sensor site map diagram.",
+      "level": 2,
+      "source": "Intro deck slide 33",
+      "confidence": "high",
+      "width": 900,
+      "height": 503,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-21.jpg"
+    },
+    {
+      "id": "fleet-ops-dashboard-02",
+      "type": "PHOTO",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/fleet-ops-dashboard-02.jpg",
+      "tags": [
+        "product:flytbase",
+        "vertical:maritime-ports",
+        "product:fleet-ops",
+        "screen:fleet-view",
+        "product:verkos",
+        "product:forensic-search",
+        "screen:forensic-search",
+        "output:forensic-search-result",
+        "product:analytics-reporting",
+        "screen:report-viewer",
+        "agent:object-detection"
+      ],
+      "description": "Vehicle detection under bridge.",
+      "level": 2,
+      "source": "Intro deck slide 26",
+      "confidence": "high",
+      "width": 900,
+      "height": 822,
+      "added": "2026-07-14",
+      "_local_file": "fleet-ops-dashboard-02.jpg"
+    },
+    {
+      "id": "flytbase-platform-asset-22",
+      "type": "DIAGRAM",
+      "url": "https://raw.githubusercontent.com/FlytBase-Marketing/Flytbase-Design-System-/main/assets/flytbase-platform-asset-22.jpg",
+      "tags": [
+        "product:flytbase"
+      ],
+      "description": "Data sovereignty shield network graphic.",
+      "level": 3,
+      "source": "Intro deck slide 3",
+      "confidence": "high",
+      "width": 900,
+      "height": 491,
+      "added": "2026-07-14",
+      "_local_file": "flytbase-platform-asset-22.jpg"
+    }
+  ],
   "videos": []
 }
